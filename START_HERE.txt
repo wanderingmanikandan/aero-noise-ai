@@ -1,0 +1,19 @@
+AERONOISE AI - START HERE
+
+1. Extract this ZIP first.
+2. Open index.html in a modern desktop browser such as Chrome or Edge.
+   Right-click > Open with > your browser if it opens as text.
+3. Follow Understand > Explore data > Train & test > Try a case > Pitch & export.
+4. Start with Experiment A. Click Train and test, then try a held-out case.
+5. Read AeroNoise_AI_Student_Guide.pdf before the team presentation.
+
+The app includes its data and scripts. No Python, Node.js, account, API key,
+external library, or internet connection is required for its calculations.
+Developer verification scripts are optional and are not needed by students.
+
+For GitHub: upload the extracted CONTENTS, not the ZIP. index.html must be
+at the repository top level. Settings > Pages > Deploy from a branch >
+main > /(root) > Save. Share the site address shown by GitHub after deployment.
+
+No live website has been created by delivery of this package.
+The README explains the method, limitations, verification, and licences.
